@@ -35,13 +35,13 @@ DB Script [ARCHIVO](https://drive.google.com/file/d/1Tf6iwNqs1WItLLWDy1D8ea1F7Q_
 
 E05 -Planificar los casos de prueba basados en los requisitos de lo que se desarrollará durante el Sprint. ✔
 
-Testing Plan [ARCHIVO]()  [**en progreso**]
+Testing Plan [ARCHIVO](https://docs.google.com/spreadsheets/d/1bb2Fj71_KSRLB-lMoqfARfvd9fRTvTE6_CYoVbSMwSM/edit?usp=share_link) ✔ 
 
-Usability Test con MAZE [ONLINEREPORT]()
+Usability Test con MAZE [ONLINEREPORT](https://app.maze.co/report/Booking/49hk8ilhsmafw2/intro)
 
 E06 -Validar el funcionamiento de la API Rest creada durante el sprint a través de Postman y crear todos los scripts de prueba pertinentes. ✔
 
-Postman Collection test [ARCHIVO]()  [**en progreso**]
+Postman Collection test [ARCHIVO](https://docs.google.com/spreadsheets/d/1bb2Fj71_KSRLB-lMoqfARfvd9fRTvTE6_CYoVbSMwSM/edit?usp=share_link) ✔  
 
 E07 -Ejecutar los casos de prueba que se planificaron inicialmente para el sprint.  [**en progreso**]
 
